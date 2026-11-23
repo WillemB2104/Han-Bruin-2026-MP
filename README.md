@@ -1,4 +1,4 @@
-# Bruin-2026-MP
+# Han - Bruin-2026-MP
 
 Code accompanying the following publication:
 
